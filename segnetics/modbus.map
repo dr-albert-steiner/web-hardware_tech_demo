@@ -1,0 +1,7 @@
+[Request2]
+Direction=read
+Type=reg
+Baudrate=115200
+Address=1
+Period=100
+var0=0#int#temp
